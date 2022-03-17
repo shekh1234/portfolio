@@ -1,80 +1,85 @@
 /****************
 COMMON
 *****************/
-body{
-    font-family: monospace, sans-serif;
+body {
+  font-family: monospace, sans-serif;
 }
-.font-primary{
-    color:#09df14;
+.font-primary {
+  color: #09df14;
 }
-.title-icon{
-    font-size: 25px;
-    font-weight: bold;
-} 
-p{
-    font-size: 14px;
+.title-icon {
+  font-size: 25px;
+  font-weight: bold;
 }
-h2{
-font-weight: bold;
-font-size: 25px;
-margin-bottom: 20px;
+p {
+  font-size: 14px;
 }
-a.font-black{
-color: #000;!important;
+h2 {
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+a.font-black {
+  color: #000;
 }
 /****************
 ABOUT
 *****************/
-#about{
-    margin: 60px auto;
-    max-width: 400px;
-    text-align: center;
+#about {
+  margin: 60px auto;
+  max-width: 400px;
+  text-align: center;
 }
-#about img{
-    border-radius: 35%;
-    width: 90px;
-    margin-bottom: 10px;
+#about img {
+  border-radius: 35%;
+  width: 90px;
+  margin-bottom: 10px;
 }
-#about  .name{
-    font-size: 25px;
+#about .name {
+  font-size: 25px;
 }
-#about  .vocation{
-    font-size: 17px;
-    color: #8f8888;
-    margin-bottom: 10px;   
+#about .vocation {
+  font-size: 17px;
+  color: #8f8888;
+  margin-bottom: 10px;
 }
-#about   .skills{
-    font-size: 14px;
-    color: #11c037;
-    margin-bottom: 10px; 
+#about .skills {
+  font-size: 14px;
+  color: #11c037;
+  margin-bottom: 10px;
 }
-#about  .email{
-    margin-top: 14px;
-    font-size: 16px;
+#about .email {
+  margin-top: 14px;
+  font-size: 16px;
 }
-#about  .icon{
-    margin-top: 20px;
-    font-size: 20px;
+#about .icon {
+  margin-top: 20px;
+  font-size: 20px;
 }
-#about  .icon a{
-    color: rgb(7, 7, 7);
+#about .icon a {
+  color: rgb(7, 7, 7);
 }
 
 /*******************
 Project
 ********************/
-#Project{
-margin: 60px auto;
-width: 80%;
+#Project {
+  margin: 60px auto;
+  width: 80%;
 }
-#Project h2{
-    text-align: center;
+#Project h2 {
+  text-align: center;
 }
-#Project .card img{
-    width: 90%;
-    margin-top: 40px;
-    margin-left:50px;
+#Project .card img {
+  width: 90%;
+  margin-top: 40px;
+  margin-left: 50px;
 }
-#Project .card-title{
-    font-weight: bold;
+#Project .card-title {
+  font-weight: bold;
+}
+#Project .project-video {
+  width: 100%;
+  max-height: 270px;
+  background-color: black;
 }
